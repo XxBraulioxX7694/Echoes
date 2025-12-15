@@ -1,2 +1,5 @@
 //Echoes Hwid
-6df64772-a0a5-485f-897d-5849a13308d0 //yo osea braulio jajas dev Echoes
+
+6df64772-a0a5-485f-897d-5849a13308d0
+//braulio
+
